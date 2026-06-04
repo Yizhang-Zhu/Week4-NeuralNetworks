@@ -2,7 +2,7 @@
 
 This assignment is designed for students to apply neural network algorithms to their combined dataset and to analyze how these models perform in comparison to the classical machine learning models previously used. Students should focus on understanding the differences in performance, accuracy, and computational efficiency between neural networks and classical approaches, and provide insights into why these differences occur. The comparison should highlight the unique strengths and limitations of neural networks relative to traditional machine learning techniques in the context of audio classification. 
 
-**Tasks: **
+**Tasks:**
 
 1. Fork the repository to your own account.
 2. Perform audio data classification utilizing neural network model on RAVDESS.
